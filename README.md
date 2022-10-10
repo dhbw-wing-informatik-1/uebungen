@@ -53,7 +53,7 @@ Das Einchecken der Übungen in diesem Repositorium ist Voraussetzung zur Prüfun
 git config user.name # Erklärung, falls das falsch ist => siehe Fehlermeldung
 git config user.email # Erklärung, falls das falsch ist => siehe Fehlermeldung
 
-git clone # Erklärung
+git clone # Legt eine lokale Kopie des Repositoriums(Ordner) an
 git status # Erklärung
 git add # Erklärung
 git commit # Erklärung
