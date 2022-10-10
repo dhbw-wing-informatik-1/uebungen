@@ -1,0 +1,8 @@
+#!/bin/bash
+
+group_name="Dozent"
+
+commit_message_file=$1
+commit_message_content=$(<$commit_message_file)
+(echo "$group_name: "; echo $commit_message_content) > $commit_message_file
+exit 0
