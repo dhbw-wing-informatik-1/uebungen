@@ -26,6 +26,25 @@ Es wird Übungen geben. Die Übungsaufgaben werden den Studierenden am Ende der 
 Jede Gruppe muss diese bearbeiten und vor dem folgenden Vorlesungstermin hier in dieses Repositorium einchecken.
 Das Einchecken der Übungen in diesem Repositorium ist Voraussetzung zur Prüfungszulassung.
 
+### Öffnen der git Kommandozeile
+
+##### MacOS Nutzer:
+
+1. CMD + Leertaste
+2. terminal eintippen
+3. ENTER drücken
+4. git --version eintippen
+5. ENTER drücken
+
+
+##### Windows:
+
+1. Windows Taste drücken
+2. bash eintippen
+3. ENTER drücken
+4. git --version eintippen
+5. ENTER drücken
+
 ### git Kommandozeilen Spickzettel
 
 ```shell
