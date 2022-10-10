@@ -54,7 +54,7 @@ git config user.name # Erklärung, falls das falsch ist => siehe Fehlermeldung
 git config user.email # Erklärung, falls das falsch ist => siehe Fehlermeldung
 
 git clone # Legt eine lokale Kopie des Repositoriums(Ordner) an
-git status # Erklärung
+git status # Gibt aus, was genau seit dem letzten commit innerhalb eines Repositoriums verändert wurde (kurz: zeigt den status des Repositoriums an)
 git add # Erklärung
 git commit # Erklärung
 git push # Erklärung
